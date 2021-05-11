@@ -25,7 +25,7 @@ For this section, these are the following tasks:
 
 - Create summary statistic tables of each dataframes.
 
-### 2 - Natural Language Processing
+#### 2 - Natural Language Processing
 
 In this section, we will use NLTK and Python to perform the following tasks for the given coins:
 
@@ -33,7 +33,8 @@ In this section, we will use NLTK and Python to perform the following tasks for 
   
 For this section, We will perform the following tasks to preprocess the text:
        
-    - Tokenization: Tokenization is a process of creating tokens by splitting the larger text into smaller sentences, words or phrases.
+    - Tokenization: Tokenization is a process of creating tokens by splitting the larger text into 
+    smaller sentences, words or phrases.
     
     - Lemmatization: Lemmatization is the process of converting a word to its base form. 
     
@@ -41,7 +42,8 @@ For this section, We will perform the following tasks to preprocess the text:
     
     - Remove Punctuation.
     
-    - Remove Stopwords: Stopwords are the words which does not add much meaning to the sentence, if we remove the stopwords the meaning of the sentence does not change. 
+    - Remove Stopwords: Stopwords are the words which does not add much meaning to the sentence, 
+    if we remove the stopwords the meaning of the sentence does not change. 
     
     - Create a new tokens column for Bitcoin and Ethereum dataframe
 
